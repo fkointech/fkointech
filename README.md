@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-   <a href=https://www.linkedin.com/company/f-koin-tech" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="whoguri" height="30" width="40" /></a>
+   <a href="https://www.linkedin.com/company/f-koin-tech" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="whoguri" height="30" width="40" /></a>
    <a href="https://www.instagram.com/fkointech/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whoguri.in" height="30" width="40" /></a>
    <a href="https://www.youtube.com/channel/UC7FTkPjmfVnzIuywrJlw6Eg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/uce6dcqky1-d63czysmgvl8g" height="30" width="40" /></a>
 </p>
