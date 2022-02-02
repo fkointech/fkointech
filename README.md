@@ -1,4 +1,4 @@
-<h1 align="center">F-koin tech</h1>
+<h1 align="center">F-Koin Tech</h1>
 <h3 align="center">A small group of creative developers</h3>
 <br/>
 📫 How to reach me **fkointech@gmail.com**
