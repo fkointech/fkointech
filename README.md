@@ -1,7 +1,7 @@
 <h1 align="center">F-Koin Tech</h1>
 <h3 align="center">A small group of creative developers</h3>
 <br/>
-📫 How to reach me **fkointech@gmail.com**
+📫 How to reach me **fkointech.com**
 <br/>
 <br/>
 
